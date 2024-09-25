@@ -11,8 +11,8 @@ To set up this project, ensure that both Python and R are installed on your syst
 
 Install the required Python packages:
 
-(```bash
-pip install pandas seaborn matplotlib ```)
+`
+pip install pandas seaborn matplotlib `
 
 ### R:
 
@@ -25,8 +25,14 @@ Install the required R packages:
 ## Usage
 ### Python:
 Launch Jupyter Notebook and navigate to the project directory.<br>
-The notebook is divided into sections for **data preparation**, <br> **exploration** and  <br> **visualization**. <br>Each section contains code for data cleaning and statistical analysis.
-<p>Visualizations are created using Python libraries such as pandas, seaborn, and matplotlib.</p>
+
+The notebook is divided into sections for
+- **data preparation**,
+- **exploration** and 
+- **visualization**.
+Each section contains code for data cleaning and statistical analysis.
+
+Visualizations are created using Python libraries such as pandas, seaborn, and matplotlib.
 
 ### R Integration:
 One of the visualizations is implemented in R using the ggplot2 package.
