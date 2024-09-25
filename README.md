@@ -20,16 +20,18 @@ pip install pandas seaborn matplotlib `
 
 Install the required R packages:
 
-`install.packages("ggplot2")`
+```r
+install.packages("ggplot2")
 
 ## Usage
 ### Python:
 Launch Jupyter Notebook and navigate to the project directory.<br>
 
 The notebook is divided into sections for
-- **data preparation**,
-- **exploration** and 
-- **visualization**.
+- **Data preparation**,
+- **Exploration** and 
+- **Visualization**
+  
 Each section contains code for data cleaning and statistical analysis.
 
 Visualizations are created using Python libraries such as pandas, seaborn, and matplotlib.
