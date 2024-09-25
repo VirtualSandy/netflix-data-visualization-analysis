@@ -1,2 +1,31 @@
-# netflix-data-visualization-analysis
-A project analyzing Netflix shows and movies using Python and R. It includes data cleaning, exploration, statistical analysis, and visualizations of genres and ratings distribution. Python libraries (pandas, seaborn, matplotlib) and R's ggplot2 used for additional visualizations "
+# Netflix Data Visualization and Analysis
+
+This project involves the analysis of a dataset containing Netflix shows and movies. The goal is to explore the content available on Netflix, focusing on genres and ratings distribution through data cleaning, exploration, and visualizations.
+
+## Installation
+To set up this project, ensure that both Python and R are installed on your system.
+
+### Python:
+
+`Install Python`
+
+Install the required Python packages:
+
+```bash
+pip install pandas seaborn matplotlib 
+
+### R:
+
+`Install R`
+
+Install the required R packages:
+
+`install.packages("ggplot2")`
+
+## Usage
+Python:
+Launch Jupyter Notebook and navigate to the project directory.
+The notebook is divided into sections for data preparation, exploration, and visualization. Each section contains code for the corresponding tasks, including data cleaning and statistical analysis.
+Visualizations are created using Python libraries such as pandas, seaborn, and matplotlib.
+R Integration:
+One of the visualizations is implemented in R using the ggplot2 package.
