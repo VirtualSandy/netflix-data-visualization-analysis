@@ -7,21 +7,19 @@ To set up this project, ensure that both Python and R are installed on your syst
 
 ### Python:
 
-`Install Python`
+- **Install Python**
 
 Install the required Python packages:
 
-`
-pip install pandas seaborn matplotlib `
+`pip install pandas seaborn matplotlib`
 
 ### R:
 
-`Install R`
+- **Install R**
 
 Install the required R packages:
 
-```r
-install.packages("ggplot2")
+`install.packages("ggplot2")`
 
 ## Usage
 ### Python:
